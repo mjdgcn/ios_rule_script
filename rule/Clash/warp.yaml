@@ -1,3 +1,9 @@
+# NAME: 360
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-02-15 23:45:37
+# DOMAIN-SUFFIX: 259
+# TOTAL: 259
 payload:
   - DOMAIN-SUFFIX,api.cloudflareclient.com
   - DOMAIN-SUFFIX,2606:4700:4700::1111
